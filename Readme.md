@@ -1,6 +1,6 @@
 # Weather Forecast App - Andrei Alexa
 
-In this project we create a GUI application to show te 5-day weather forecast for a specified city using 
+In this project we create a GUI application to show the 24-hour weather forecast for a specified city using 
 data from the OpenWeatherMap API.
 
 The application will have a search bar in which the user enters the city name for which he wants to see 
